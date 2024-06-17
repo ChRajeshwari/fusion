@@ -1,0 +1,267 @@
+.page1{
+    padding: 200px;
+    background-color:rgb(233, 237, 239);
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p0{
+    font-size: 20px;
+}
+img{
+   float: right;
+   margin-top: -400px;
+   margin-right: 160px;
+   border-radius:14px 5px 5px 5px;
+   height: 260px;
+}
+.on1{
+    color: red;
+    margin:160px 0 0 600px;
+}
+.p1{
+    color: red;
+    margin-left:  660px;
+    margin-bottom: 200px;
+    margin-top: -20px;
+}
+.img2{
+    float: left;
+    margin-top: 80px;
+    height: 500px;
+    width: 400px;
+    margin-left: 100px;
+}
+h3{
+    font-size: 26px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  right:550px;
+  top:600px;
+}
+.p2{
+       font-size: 20px;
+        position: relative;
+        right:550px;
+        top:600px;
+    
+}
+.img3{
+   
+    float: left;
+    margin-top: -90px;
+    height: 600px;
+    width: 400px;
+    margin-left: -90px;
+}
+.hd1{
+    font-size: 26px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  right:550px;
+  top:540px;
+}
+.p3{
+       font-size: 18px;
+        position: relative;
+        right:550px;
+        top:540px;
+    
+}
+.img4{
+    margin-top: -90px;
+    height: 300px;
+    width: 380px;
+    position: relative;
+    left:50px;
+    bottom: 510px;
+}
+.hd2{
+    font-size: 26px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  right:110px;
+top:60px;
+}
+.p4{
+       font-size: 18px;
+       position: relative;
+       right:110px;
+     top:60px;
+    
+}
+.hd3{
+    float: left;
+    font-size: 34px;
+    margin-top:360px;
+    margin-left:100px;
+}
+.p5{
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+}
+.hd4{
+    font-size: 24px;
+    margin-top: -40px;
+  
+}
+.p6{
+    font-size: 20px;
+    position: relative;
+ left: 650px;
+ bottom:20px;
+}
+.card2{
+ position: relative;
+ right: 450px;
+ top:490px;
+}
+.hd5{
+    font-size: 24px;
+    margin-top: -40px;
+  
+}
+.p8{
+    font-size: 20px;
+    position: relative;
+ bottom:20px;
+}
+.card3{
+ position: relative;
+ left: 640px;
+ top:260px;
+}
+.p7{
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+}
+.hd6{
+    font-size: 34px;
+    margin-top:360px;
+    margin-left:100px;
+}
+.img5{
+    height:130px;
+    position: relative;
+    top:280px;
+    right:460px;
+}
+.img6{
+    height:90px;
+    margin-top: -100px; 
+    margin-right: 500px;
+}
+.img7{
+    height:94px;
+    margin-top: -103px; 
+    margin-right: 340px;
+}
+.img8{
+   height: 40px;
+   margin-top: -74px; 
+    margin-right: 220px;
+}
+.img9{
+    height: 80px;
+    margin-top: -40px; 
+     margin-right: 690px;
+ }
+ .img10{
+    height: 66px;
+    margin-top: -30px; 
+    margin-right: -320px;
+ }
+ .img11{
+    height: 79px;
+    margin-top: -38px; 
+    margin-right: -470px;
+ }
+ .img12{
+    height: 70px;
+    margin-top: -38px; 
+    margin-right: -640px;
+ }
+ .img13{
+height:500px;
+width:720px;
+float: left;
+position: relative;
+top:250px;
+border: 0px;
+ }
+ .hd6{
+     font-size: 34px;
+     position: relative;
+bottom:40px;
+
+
+    
+ }
+.p9{
+    font-size: 18px;
+    margin-top: -7px;
+    position: relative;
+    bottom:50px;
+    left:880px;
+
+}
+.hd7{
+    font-size: 34px;
+   margin-top: 400px;
+   margin-left: 200px;
+}
+   
+.p10{
+    font-size: 18px;
+    margin:0px 0px 0px 200px;
+}
+.img14{
+    height:560px;
+    width:760px;
+   margin-top:-280px;
+   border-radius: 0;
+margin-right: -30px;
+}
+.hd8{
+    font-size: 20px;
+  margin-top: 400px;
+   margin-left: 260px;
+
+}
+.p10{
+    font-size: 18px;
+    margin-left:260px;
+   margin-top: 00px;
+}
+.hd9{
+    font-size: 20px;
+  margin-top: -140px;
+   margin-left:860px ;
+
+}
+.p11{
+    font-size: 18px;
+    margin-left:860px;
+   
+}
+.img15{
+    height: 800px;
+    width: 88%;
+    align-items: center;
+    margin-top: 100px;
+  
+   border-radius: 5px;
+
+}
+.card7{
+align-items: center;
+margin-left: 170px;
+}
+
+
+
+
